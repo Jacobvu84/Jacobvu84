@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 I am Jacob (Tên Việt Nam: Vũ Thế Linh). I love learning and sharing technical skills. I love beautiful thing even that is code. 𝐈 𝐰𝐫𝐢𝐭𝐞 𝕭𝖊𝖆𝖚𝖙𝖎𝖋𝖚𝖑 𝕮𝖔𝖉𝖊.
-I like to write. You can follow my posts [here](https://github.com/Jacobvu84/diary-testing)
+I like to write blog to share my view or something that is rarely you see. Pls follow my posts [here](https://github.com/Jacobvu84/diary-testing)
 
 - 🔭 I’m currently working for **One Mount** - as QC Manager, My mission is to help the organization to implement test automation in the right way.
 - 🤼 Also working on [**Automated Software Testing**](https://github.com/Jacobvu84/Automated-Software-Testing) - to share the knowledge with a larger online community.
