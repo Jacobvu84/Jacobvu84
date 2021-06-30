@@ -22,7 +22,7 @@ I like to write blog to share my view or something that is rarely you see. Pls f
 - 🤼 Also working on [**Automated Software Testing**](https://github.com/Jacobvu84/Automated-Software-Testing) - to share the knowledge with a larger online community.
 - 🌱 I’m currently learning ...Serenity Screenplay
 - 💬 Ask me about Test Automation Design patterns. 
-- 📫 How to reach me: [LinkedIn](vn.linkedin.com/in/jacobvu) ⚡ [Youtube](https://www.youtube.com/channel/UCRZzU_xrvqlji7snogiz6Rg) ⚡ Skype: vu.the.linh ⚡ Email: vuthelinh@gmail.com
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jacobvu/) ⚡ [Youtube](https://www.youtube.com/channel/UCRZzU_xrvqlji7snogiz6Rg) ⚡ Skype: vu.the.linh ⚡ Email: vuthelinh@gmail.com
 - 👯 I’m looking to collaborate on BDD . I feel like I need to really get creative  and challenge myself with something new.
 - 😄 Some fun fact about my github projects below...
 
