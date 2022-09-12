@@ -46,3 +46,4 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 - C# webdriver free [ở đây](https://www.youtube.com/playlist?list=PLpTCO0Fa9GR1vOx_-YInGAPi8RZqpXFjZ)
 - Docker basic [ở đây](https://www.youtube.com/playlist?list=PLpTCO0Fa9GR24nAWmrYR4qt43oDwWS-Qi)
 - Xpath case study [ở đây](https://www.youtube.com/playlist?list=PLpTCO0Fa9GR3QfiFocwoj0Gvu-o16YBDa)
+- Mô hình Page Object trong Serenity BDD framework: https://github.com/Jacobvu84/diary/issues/31
