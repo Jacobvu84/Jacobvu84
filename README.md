@@ -20,12 +20,13 @@ I like to write blog to share my view or something that is rarely you see. Pls f
 
 - 🔭 I’m currently working for **One Mount** - My mission is to help the organization to implement test automation in the right way.
 - 🤼 Also working on [**Automated Software Testing**](https://github.com/Jacobvu84/Automated-Software-Testing) - to share the knowledge with a larger online community.
-- 🌱 I’m currently learning ...Serenity Screenplay
+- 🌱 I’m currently looking for a new job as QC Manager / QC Lead
 - 💬 Ask me about Test Automation Design patterns. 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jacobvu/) ⚡ [Youtube](https://www.youtube.com/channel/UCRZzU_xrvqlji7snogiz6Rg) ⚡ Skype: vu.the.linh ⚡ Email: vuthelinh@gmail.com
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jacobvu/) ⚡ [Youtube](https://www.youtube.com/c/SeleniumVietnam/playlists) ⚡ Email: vuthelinh@gmail.com ⚡ Zalo: 0984303104
 - 👯 I’m looking to collaborate on BDD . I feel like I need to really get creative  and challenge myself with something new.
 - 😄 Some fun fact about my github projects below...
 
+ 
 ### Github Stats
 <!--
 https://github.com/anuraghazra/github-readme-stats
