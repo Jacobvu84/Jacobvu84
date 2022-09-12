@@ -25,12 +25,6 @@ I like to write blog to share my view or something that is rarely you see. Pls f
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jacobvu/) ⚡ [Youtube](https://www.youtube.com/c/SeleniumVietnam/playlists) ⚡ Email: vuthelinh@gmail.com ⚡ Zalo: 0984303104
 - 👯 I’m looking to collaborate on BDD . I feel like I need to really get creative  and challenge myself with something new.
 - 😄 Some fun fact about my github projects below...
-
-### Free Automation Training Courses
-- Java webdriver free [ở đây](https://github.com/Jacobvu84/Automated-Software-Testing/issues?q=is%3Aopen+is%3Aissue+label%3A%22selenium+webdriver%22)
-- C# webdriver free [ở đây](https://www.youtube.com/playlist?list=PLpTCO0Fa9GR1vOx_-YInGAPi8RZqpXFjZ)
-- Docker basic [ở đây](https://www.youtube.com/playlist?list=PLpTCO0Fa9GR24nAWmrYR4qt43oDwWS-Qi)
-- Xpath case study [ở đây](https://www.youtube.com/playlist?list=PLpTCO0Fa9GR3QfiFocwoj0Gvu-o16YBDa)
  
 ### Github Stats
 <!--
@@ -46,3 +40,9 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 
 ## Joke of the day
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+### Free Automation Training Courses
+- Java webdriver free [ở đây](https://github.com/Jacobvu84/Automated-Software-Testing/issues?q=is%3Aopen+is%3Aissue+label%3A%22selenium+webdriver%22)
+- C# webdriver free [ở đây](https://www.youtube.com/playlist?list=PLpTCO0Fa9GR1vOx_-YInGAPi8RZqpXFjZ)
+- Docker basic [ở đây](https://www.youtube.com/playlist?list=PLpTCO0Fa9GR24nAWmrYR4qt43oDwWS-Qi)
+- Xpath case study [ở đây](https://www.youtube.com/playlist?list=PLpTCO0Fa9GR3QfiFocwoj0Gvu-o16YBDa)
