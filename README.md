@@ -26,7 +26,7 @@ I have experience of working with some different tools and automation frameworks
 
 Experience in working with agile and waterfall project management methodologies. I have a basic understanding of several programming languages but java is one of most familiar languages.
 
-Most recently, I worked for One Mount group as QC Manager. I am responsible for evaluating and training personnel and ensuring that all materials used in the project meet the standards required.
+Most recently, I worked for One Mount group as QC Manager. I am responsible for evaluating and training personnel and ensuring that all materials used in the project meet the required standard.
 
 <!--
 - 🔭 I’m currently working for **One Mount** - My mission is to help the organization to implement test automation in the right way.
