@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 I am Jacob (Tên Việt Nam: Vũ Thế Linh). I love learning and sharing technical skills. I love beautiful things, even code. 𝐈 𝐰𝐫𝐢𝐭𝐞 𝕭𝖊𝖆𝖚𝖙𝖎𝖋𝖚𝖑 𝕮𝖔𝖉𝖊.
 I like to write blogs to share my views or something that is rarely seen. Pls follow my posts [here](https://github.com/Jacobvu84/diary-testing)
 
-In 2008, I graduated from HP private University with a major in computer science. I started my career as a QC Engineer in Vietsoftware company. Till now I have more than 13 years of experience.
+Before I introduce myself, I would like to thank you very much for giving me the opportunity to talk about the position of your company.
+
+In 2008, I graduated from HP private University with a major in computer science. I started my career as a QC Engineer in Vietsoftware company. Till now I have given 13 years of my life to this job.
 
 My background includes testing web and mobile within both manual testing and automation testing. Especially test automation.
 
-I have experience of working with some different tools and automation frameworks such as selenium webdriver for web and appium for mobile.
-
-Experience in working with agile and waterfall project management methodologies. I have a basic understanding of several programming languages but java is one of most familiar languages.
+I have experience of working with some different tools and automation frameworks such as selenium webdriver for web and appium for mobile. I have a basic understanding of several programming languages but java is one of most familiar languages. Experience in working with agile and waterfall project management methodologies. 
 
 Most recently, I worked for One Mount group as QC Manager. I am responsible for evaluating and training personnel and ensuring that all materials used in the project meet the required standard.
 
