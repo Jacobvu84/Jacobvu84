@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I am Jacob (Tên Việt Nam: Vũ Thế Linh). I love learning and sharing technical skills. I love beautiful things, even code. 𝐈 𝐰𝐫𝐢𝐭𝐞 𝕭𝖊𝖆𝖚𝖙𝖎𝖋𝖚𝖑 𝕮𝖔𝖉𝖊.
 I like to write blogs to share my views or something that is rarely seen. Pls follow my posts [here](https://github.com/Jacobvu84/diary-testing)
 
-Before I introduce myself, I would like to thank you very much for giving me the opportunity to talk about the position of your company.
+Before I introduce myself, I would like to thank you very much for visiting my profile.
 
 In 2008, I graduated from HP private University with a major in computer science. I started my career as a QC Engineer in Vietsoftware company. Till now I have given 13 years of my life to this job.
 
