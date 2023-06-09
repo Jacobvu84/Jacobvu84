@@ -15,18 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Jacob (Tên Việt Nam: Vũ Thế Linh). I love learning and sharing technical skills. I love beautiful things, even code. 𝐈 𝐰𝐫𝐢𝐭𝐞 𝕭𝖊𝖆𝖚𝖙𝖎𝖋𝖚𝖑 𝕮𝖔𝖉𝖊.
-I like to write blogs to share my views or something that is rarely seen. Pls follow my posts [here](https://github.com/Jacobvu84/diary-testing)
+    I am currently seeking a position as an Automation Test Manager to lead and develop an automation testing team. My objective is to create the optimal working environment for software developers and test engineers, thereby enhancing the automation testing process and ensuring high-quality software products.
 
-Before I introduce myself, I would like to thank you very much for visiting my profile.
+With my experience in software testing and automation, I aim to apply this knowledge and skillset to build a robust foundation for automated testing. I want to ensure that all testing processes are executed automatically, efficiently, and consistently, from the development stage to the final product.
 
-In 2008, I graduated from HP private University with a major in computer science. I started my career as a QC Engineer in Vietsoftware company. Till now I have given 13 years of my life to this job.
+My goal is to develop and implement the best automation testing frameworks, tools, and practices to minimize effort and time spent on testing while enhancing the reliability and coverage of the test suite. I want to ensure that the automation testing process is seamlessly integrated into the development workflow and synchronized with other relevant processes, such as Agile or DevOps.
 
-My background includes testing web and mobile within both manual testing and automation testing. Especially test automation.
+Additionally, I aspire to take on a leadership role in developing the automation testing team. I envision building a passionate, cohesive team with high proficiency in automation testing. I aim to guide and train team members, providing them with the necessary tools and resources to enhance and expand their automation testing capabilities.
 
-I have experience of working with some different tools and automation frameworks such as selenium webdriver for web and appium for mobile. I have a basic understanding of several programming languages but java is one of most familiar languages. Experience in working with agile and waterfall project management methodologies. 
-
-Most recently, I worked for One Mount group as QC Manager. I am responsible for evaluating and training personnel and ensuring that all materials used in the project meet the required standard.
+With my commitment and passion for automation testing, I hope to make significant contributions to the company's success and drive positive change.
 
 <!--
 - 🔭 I’m currently working for **One Mount** - My mission is to help the organization to implement test automation in the right way.
